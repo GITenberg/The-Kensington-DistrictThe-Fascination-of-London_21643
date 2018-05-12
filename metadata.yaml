@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21643#The-Kensington-DistrictThe-Fascination-of-London
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-05-30'
 gutenberg_type: Text
